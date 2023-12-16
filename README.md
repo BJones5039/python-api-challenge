@@ -45,3 +45,7 @@ Use Geoapify API to find the first hotel within 10,000 meters for each city.
 Map Enhancement:
 
 Add hotel name and country to the hover message for each city on the map.
+
+
+
+Please note assistance has been received from Tutors via TA assistance during Office Hours, AskBCS Learning Assistants, and follow classmates via Slack.
