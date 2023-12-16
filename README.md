@@ -3,6 +3,7 @@
 Explore weather trends and plan future vacations with WeatherPy and VacationPy.
 
 **WeatherPy**
+
 Objective: Investigate weather patterns around the equator using Python, APIs, and data visualizations.
 
 Data Collection:
@@ -27,6 +28,7 @@ Separate plots into Northern and Southern Hemispheres.
 Interpret the models and note any relationships.
 
 **VacationPy**
+
 Objective: Plan vacations using weather data, Jupyter notebooks, geoViews, and the Geoapify API.
 
 Map Visualization:
